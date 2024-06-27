@@ -23,7 +23,7 @@ import {
   message,
 } from "antd";
 import MyModal from "./Components/Modal/Modal";
-import GeoLocationComponent from "./Components/Geolocation/geolocation";
+// import GeoLocationComponent from "./Components/Geolocation/geolocation";
 import MyTable from "./Components/Table/Table";
 import ReportPage from "./Components/ReportPage/ReportPage";
 import PerLinkStat from "./Components/PerLinkStat/PerLinkStat";
