@@ -1,6 +1,6 @@
 import {  useState } from 'react';
 import { BugTwoTone } from '@ant-design/icons';
-import { Card, Col, Row,  Button, Form, Input, Alert } from 'antd';
+import { Card, Col, Row,  Button, Form, Input, Alert } from "antd";
 import axios from 'axios';
 
 const ReportPage = () => {
